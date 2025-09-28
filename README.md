@@ -1,16 +1,32 @@
-# latihan_quiz
+# 🎬 Flutter Movie App
 
-A new Flutter project.
+Aplikasi mobile sederhana berbasis **Flutter** untuk menampilkan daftar film beserta detail informasinya.  
+Project ini dibuat sebagai latihan praktikum pemrograman mobile.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 👤 Data Diri
 
-A few resources to get you started if this is your first Flutter project:
+- **Nama**: Ridho Nur Maulana
+- **NIM**: 124230142
+- **Kelas**: Praktikum Plug-C
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Fitur Utama
+
+- Login page dengan autentikasi sederhana.
+- Halaman Home menampilkan daftar film.
+- Halaman Detail berisi informasi lengkap film: judul, tahun, sinopsis, genre, sutradara, daftar cast, rating, serta link Wikipedia.
+- Navigasi antar halaman.
+- Desain UI konsisten dengan tema gelap dan aksen biru.
+
+---
+
+## Preview Aplikasi
+
+_(Tambahkan screenshot di sini kalau sudah ada, misalnya:)_
+
+![Login Page](assets/screenshots/login.png)  
+![Home Page](assets/screenshots/home.png)  
+![Detail Page](assets/screenshots/detail.png)
