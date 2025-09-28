@@ -5,7 +5,7 @@ Project ini dibuat sebagai latihan praktikum pemrograman mobile.
 
 ---
 
-## 👤 Data Diri
+## Data Diri
 
 - **Nama**: Ridho Nur Maulana
 - **NIM**: 124230142
@@ -13,7 +13,7 @@ Project ini dibuat sebagai latihan praktikum pemrograman mobile.
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 - Login page dengan autentikasi sederhana.
 - Halaman Home menampilkan daftar film.
@@ -27,6 +27,6 @@ Project ini dibuat sebagai latihan praktikum pemrograman mobile.
 
 _(Tambahkan screenshot di sini kalau sudah ada, misalnya:)_
 
-![Login Page](assets/screenshots/login.png)  
-![Home Page](assets/screenshots/home.png)  
-![Detail Page](assets/screenshots/detail.png)
+![Login Page](lib/assets/screenshots/login.png)  
+![Home Page](lib/assets/screenshots/home.png)  
+![Detail Page](lib/assets/screenshots/detail.png)
