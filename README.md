@@ -27,6 +27,6 @@ Project ini dibuat sebagai latihan praktikum pemrograman mobile.
 
 _(Tambahkan screenshot di sini kalau sudah ada, misalnya:)_
 
-![Login Page](lib/assets/screenshots/login.png)  
-![Home Page](lib/assets/screenshots/home.png)  
-![Detail Page](lib/assets/screenshots/detail.png)
+![Login Page](lib/assets/screenshots/login.jpg)  
+![Home Page](lib/assets/screenshots/home.jpg)  
+![Detail Page](lib/assets/screenshots/detail.jpg)
