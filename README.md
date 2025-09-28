@@ -25,6 +25,11 @@ Project ini dibuat sebagai latihan praktikum pemrograman mobile.
 
 ## Preview Aplikasi
 
-![Login Page](lib/assets/screenshots/login.jpg)  
-![Home Page](lib/assets/screenshots/home.jpg)  
-![Detail Page](lib/assets/screenshots/detail.jpg)
+### Login Page
+<img src="assets/screenshots/login.png" alt="Login Page" width="300"/>
+
+### Home Page
+<img src="assets/screenshots/home.png" alt="Home Page" width="300"/>
+
+### Detail Page
+<img src="assets/screenshots/detail.png" alt="Detail Page" width="300"/>
