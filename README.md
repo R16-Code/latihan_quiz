@@ -7,9 +7,9 @@ Project ini dibuat sebagai latihan praktikum pemrograman mobile.
 
 ## Data Diri
 
-- **Nama**: Ridho Nur Maulana
-- **NIM**: 124230142
-- **Kelas**: Praktikum Plug-C
+**Nama**: Ridho Nur Maulana
+**NIM**: 124230142
+**Kelas**: Praktikum Plug-C
 
 ---
 
